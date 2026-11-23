@@ -15,7 +15,7 @@
   <a href="mailto:khoanv249@gmail.com" title="Gmail">
     <img src="https://skillicons.dev/icons?i=gmail" width="42" height="42" alt="Gmail" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/KhoaSuyThan" target="_blank" title="GitHub">
+  <a href="https://github.com/khoanvl-tesoglobal" target="_blank" title="GitHub">
     <img src="https://skillicons.dev/icons?i=github" width="42" height="42" alt="GitHub" />
   </a>
 </p>
@@ -155,16 +155,16 @@
   <table>
     <thead>
       <tr>
-        <th>🕹️ <b>RETRO CONTRIBUTION ARCADE</b> &nbsp;|&nbsp; <code>PLAYER: @KhoaSuyThan</code> &nbsp;|&nbsp; 🟢 <b>STATUS: ACTIVE</b></th>
+        <th>🕹️ <b>RETRO CONTRIBUTION ARCADE</b> &nbsp;|&nbsp; <code>PLAYER: @khoanvl-tesoglobal</code> &nbsp;|&nbsp; 🟢 <b>STATUS: ACTIVE</b></th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td align="center">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KhoaSuyThan/KhoaSuyThan/output/snake-dark.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KhoaSuyThan/KhoaSuyThan/output/snake-light.svg" />
-            <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/KhoaSuyThan/KhoaSuyThan/output/snake-dark.svg" width="100%" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khoanvl-tesoglobal/khoanvl-tesoglobal/output/snake-dark.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khoanvl-tesoglobal/khoanvl-tesoglobal/output/snake-light.svg" />
+            <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/khoanvl-tesoglobal/khoanvl-tesoglobal/output/snake-dark.svg" width="100%" />
           </picture>
         </td>
       </tr>
@@ -178,12 +178,12 @@
 <!-- GITHUB METRICS & STREAK ANALYTICS                        -->
 <!-- ======================================================== -->
 <div align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=KhoaSuyThan&theme=tokyonight&hide_border=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=KhoaSuyThan&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=khoanvl-tesoglobal&theme=tokyonight&hide_border=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=khoanvl-tesoglobal&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
 <p align="center">
-  <img width="85%" src="https://streak-stats.demolab.com?user=KhoaSuyThan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="85%" src="https://streak-stats.demolab.com?user=khoanvl-tesoglobal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">

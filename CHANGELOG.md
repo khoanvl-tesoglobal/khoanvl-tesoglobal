@@ -5,6 +5,13 @@ Toàn bộ các cập nhật và thay đổi mã nguồn của dự án sẽ đ�
 Định dạng dựa trên [Keep a Changelog](https://keepachangelog.com/vi/1.0.0/).
 
 ---
+## [2026-11-23] - Đồng Bộ Profile GitHub Theo Tên Người Dùng Mới
+### Đã thay đổi (Changed)
+- **Cập nhật định danh tài khoản trong `README.md`**: Chuyển toàn bộ liên kết cá nhân, badge thống kê (GitHub Stats, Top Languages, Streak Stats), nhãn Arcade Player sang tài khoản mới `@khoanvl-tesoglobal`.
+- **Đồng bộ đường dẫn hoạt ảnh đóng góp (Contribution Snake Animation)**: Cập nhật URL nguồn ảnh SVG của con rắn sang repository `khoanvl-tesoglobal/khoanvl-tesoglobal/output/`.
+- **Cập nhật URL Remote Git**: Đồng bộ địa chỉ Git origin sang repository `https://github.com/khoanvl-tesoglobal/khoanvl-tesoglobal.git`.
+
+
 ## [2026-09-19] - Tinh Chỉnh Giao Diện Mô Phỏng AI Simulation Window
 ### Đã thay đổi (Changed)
 - **Xóa nút STOP ENGINE**: Loại bỏ nút dừng màu đỏ ở góc trên thanh tiêu đề của cửa sổ mô phỏng, giúp giao diện thoáng đãng và tập trung vào luồng code.
